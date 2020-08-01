@@ -11,7 +11,7 @@ vivado2018.3、SEA-S7板卡、2路直流电机驱动模块正反转PWM调速、�
 
 仓库结构：
 README.md 2020年新⼯科联盟-Xilinx暑期学校（Summer School）项⽬的介绍文件。
-images 存放README.md文件中引⽤的照片   
+images 存放README.md文件中引⽤的照片。   
 Sourcecode 存放项⽬源代码(压缩包格式)。  
 ExecutableFiles 本⽬录存放可直接下载到板卡使⽤的FPGA 比特流文件。
 
